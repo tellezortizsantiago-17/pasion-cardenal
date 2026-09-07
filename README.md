@@ -1,4 +1,4 @@
-# Pasión Cardenal 
+# Pasión Cardenal 🦁
 
 **Descripción:**  
 Aplicación web informativa diseñada para los hinchas de Independiente Santa Fe, centralizando la historia del club y el calendario de próximos encuentros.
